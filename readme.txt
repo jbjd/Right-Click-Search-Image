@@ -1,1 +1,1 @@
-This Chrome extension adds a right click search option to images that opens a search in a new tab using Google Lens. This is already in Chrome, but I wanted to this functionality in Brave as well.
+This Chrome extension adds a right click search option to images that opens a search in a new tab using Google Lens. This is already in Chrome, but I wanted to have this functionality in Brave as well.
